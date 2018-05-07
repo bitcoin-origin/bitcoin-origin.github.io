@@ -12,6 +12,10 @@ h6 {
   font-family: 'Montserrat';
 }
 
+hr.style1{
+	border-top: 3px solid #8c8b8b;
+}
+
 hr.star-light,
 hr.star-dark {
   max-width: 15rem;
